@@ -14,7 +14,7 @@ Programa teste de portifolio
 <br>
 
 <p align = "center">
-  <img alt="projeto DevLinks" src=".github/cover.png" width="100%">
+  <img alt="projeto DevLinks" src=".github/Cover.png" width="100%">
 </p>
 
 ## Tecnologias
@@ -30,10 +30,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links.
 
-## Layout 
- Voce pode visualizar o Layout atrasvés [DESSE LINK] (https://www.figma.com/community/file/1187422022288947321).
+## Layout
 
- ## :memo: Licença
+Voce pode visualizar o Layout atrasvés [DESSE LINK] (https://www.figma.com/community/file/1187422022288947321).
 
- Esse projeto é gratuito 
- 
+## :memo: Licença
+
+Esse projeto é gratuito
